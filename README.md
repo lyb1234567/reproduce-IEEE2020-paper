@@ -1,5 +1,7 @@
 ### Replication of "Resource and Power Allocation in SWIPT-Enabled Device-to-Device Communications Based on a Nonlinear Energy Harvesting Model" using MATLAB
 
+
+
 This repository contains the replication work of the IEEE paper "**Resource and Power Allocation in SWIPT-Enabled Device-to-Device Communications Based on a Nonlinear Energy Harvesting Model**" written by Haohang Yang
 
 
@@ -13,7 +15,27 @@ This repository contains the replication work of the IEEE paper "**Resource and 
 
 
 
-### Workflow
+### [Workflow](https://github.com/lyb1234567/reproduce-IEEE2020-paper/blob/master/image/Workflow.png)
 
 ![image-20220128160331841](https://github.com/lyb1234567/reproduce-IEEE2020-paper/blob/master/image/Workflow.png)
+
+
+
+
+
+### [Package](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package)
+
+This section contains the package where there are all the functions needed for implement the required algorithms:
+
+- [Pre-matching](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/Pre-matching)
+- [Inner](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/Inner)
+- [Outer](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/Outer)
+- [Preference list](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/preference%20list)
+- [One-to-one Stable Matching](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/one-to-one%20stable%20matching)
+- [calculation of distance](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/calculation%20of%20distance)
+- [Supportive function](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/Supportive%20functions)
+- [Simulation results](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/simulation%20results)
+- [System generation](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/system-generation)
+- [test](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/test)
+- [used equation](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/used%20equation)
 
