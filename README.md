@@ -15,5 +15,5 @@ This repository contains the replication work of the IEEE paper "**Resource and 
 
 ### Workflow
 
-![image-20220128160331841](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220128160331841.png)
+![image-20220128160331841](https://github.com/lyb1234567/reproduce-IEEE2020-paper/blob/master/image/Workflow.png)
 
