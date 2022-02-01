@@ -2,6 +2,8 @@
 
 
 
+### **Introduction**
+
 This repository contains the replication work of the IEEE paper "**Resource and Power Allocation in SWIPT-Enabled Device-to-Device Communications Based on a Nonlinear Energy Harvesting Model**" written by Haohang Yang
 
 
@@ -38,4 +40,17 @@ This section contains the package where there are all the functions needed for i
 - [System generation](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/system-generation)
 - [test](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/test)
 - [used equation](https://github.com/lyb1234567/reproduce-IEEE2020-paper/tree/master/package/used%20equation)
+
+
+
+### Task
+
+- [x] System model generation
+- [x] Pre-matching Algorithm
+- [ ] Inner loop Algorithm( **there are  some errors about the parameters in the reference paper which need to be figured out**)
+- [ ] Outer loop Algorithm
+- [ ] Preference-list
+- [ ] One-to-one stable matching algorithm
+
+
 
