@@ -74,7 +74,7 @@ This section contains the package where there are all the functions needed for i
 
 - [ ] Test 
 
-- [ ] Distance
+- [x] Distance
 
 - [ ] Supportive functions
 
