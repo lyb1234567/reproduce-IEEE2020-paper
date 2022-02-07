@@ -3,7 +3,6 @@ D2D_TX_coord=[];
 CUE_coord=[];
 RX_coord=[];
 for i=1:number_D2D
-    D2D_TX_coord
     x=randperm(400,1)-200;
     y=randperm(400,1)-200;
     check1=x==0;
