@@ -19,6 +19,8 @@ This repository contains the replication work of the IEEE paper "**Resource and 
 
 ### [Workflow](https://github.com/lyb1234567/reproduce-IEEE2020-paper/blob/master/image/Workflow.png)
 
+This section shows the work process of each step for implementing the algorithm
+
 ![image-20220128160331841](https://github.com/lyb1234567/reproduce-IEEE2020-paper/blob/master/image/Workflow.png)
 
 
@@ -45,12 +47,38 @@ This section contains the package where there are all the functions needed for i
 
 ### Task
 
+**Algorithm**
+
 - [x] System model generation
 - [x] Pre-matching Algorithm
 - [ ] Inner loop Algorithm( **there are  some errors about the parameters in the reference paper which need to be figured out**)
 - [ ] Outer loop Algorithm
 - [ ] Preference-list
 - [ ] One-to-one stable matching algorithm
+
+
+
+**Document**
+
+- [ ] Pre-Matching 
+
+- [ ] Inner loop 
+
+- [ ] Outer loop 
+
+- [x] Preference list 
+
+- [ ] One-to-one Stable matching 
+
+- [x] System generation 
+
+- [ ] Test 
+
+- [ ] Distance
+
+- [ ] Supportive functions
+
+  
 
 
 
