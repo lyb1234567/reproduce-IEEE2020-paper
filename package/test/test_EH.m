@@ -10,5 +10,10 @@ for i=1:size(r,2)
     EH=EH_model(PiR(i));
     EH_total(i)=EH;
 end
-plot(PiR,EH_total)
+EH_total=EH_total*10^(6);
+PiR=PiR*10^(6);
+plot(PiR,EH_total);
+title('Piecewise linear EH model')
+xlabel('Reveiver Power PR (µw)');
+ylabel('Harvested Energy (µw)');
 end
